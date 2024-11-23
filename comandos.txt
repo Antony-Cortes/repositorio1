@@ -1,0 +1,120 @@
+    1  Hola
+    2  code
+    3  pwd
+    4  cd Desktop
+    5  ls
+    6  ls -1
+    7  mkdir repositorio
+    8  cd repositorio/
+    9  code .
+   10  pwd
+   11  ls
+   12  cd Desktop
+   13  ls
+   14  cd repositorio
+   15  ls
+   16  pwd
+   17  code .
+   18  ls
+   19  git init
+   20  ls
+   21  ls -a
+   22  ls -al
+   23  git status
+   24  git restore A.txt
+   25  git status
+   26  git add A.txt
+   27  pwd
+   28  cd Desktop
+   29  ls
+   30  ls -1
+   31  cd repositorio/
+   32  code .
+   33  pwd
+   34  ls
+   35  cd Desktop
+   36  ls
+   37  cd repositorio
+   38  ls
+   39  pwd
+   40  code .
+   41  ls
+   42  git init
+   43  ls
+   44  ls -a
+   45  ls -al
+   46  git status
+   47  git restore A.txt
+   48  git status
+   49  git add A.txt
+   50  git status
+   51  git commit -m "Second commit"
+   52  git long --oneline
+   53  git status
+   54  gid add A.txt
+   55  git add A.txt
+   56  git commit -m "Third commit"
+   57  git log --oneline
+   58  git status
+   59  git add A.txt
+   60  git status
+   61  git commit -m "Four commit"
+   62  antony.cortes@uabc.edu.mx
+   63  Antony-Cortes
+   64  git long --oneline
+   65  git checkout 096efb4
+   66  git status
+   67  git checkout main
+   68  git checkout master
+   69  git long --oneline
+   70  git branch -M main
+   71  git remote add origin https://github.com/Antony-Cortes/repositorio.git
+   72  git push -u origin main
+   73  git push -u origin main
+   74  git remote add origin https://github.com/Antony-Cortes/repositorio.git
+   75  git push -u origin main
+   76  pwd
+   77  cd Desktop
+   78  ls
+   79  mkdir repositorio1
+   80  code .
+   81  ls
+   82  touch examen.c
+   83  git init
+   84  git add examen.c
+   85  git add examen.c
+   86  git status
+   87  pwd
+   88  cd Desktop
+   89  ls
+   90  cd repositorio1
+   91  cat examen.c
+   92  git init
+   93  git status
+   94  git commit -m "First commit"
+   95  git config --global user.email "antony.cortes@uabc.edu.mx"
+   96  git config --global user.name "Antony-Cortes"
+   97  git commit -m "First commit"
+   98  git log
+   99  git status
+  100  git branc -M main
+  101  git branch -M main
+  102  git remote add origin https://github.com/Antony-Cortes/repositorio1.git
+  103  git push -u origin main
+  104  git log --oneline
+  105  git remote add origin https://github.com/Antony-Cortes/repositorio1.git
+  106  git push -u origin main
+  107  git status
+  108  git commit -m "First commit"
+  109  git branch -M main
+  110  git add examen.c
+  111  git commit -m "First commit"
+  112  git config --global user.email "antony.cortes@uabc.edu.mx"
+  113  git config --global user.name "Antony-Cortes"
+  114  git log
+  115  git status
+  116  git branch -M main
+  117  git remote add origin https://github.com/Antony-Cortes/repositorio1.git
+  118  git push -u origin main
+  119  history
+  120  history>comandos.txt
